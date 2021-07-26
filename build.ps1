@@ -10,4 +10,4 @@ $tocoutput = "## Interface: {0}`r`n## Title: {1}`r`n## Author: {2}`r`n## Version
 
 Set-content -path ($toctemplate.packageFiles.tocFilename) -value $tocoutput -force
 
-Compress-Archive -Path @($tocTemplate.packageFiles.Values) -DestinationPath $toctemplate.packageFiles.luaFilename -force
+Compress-Archive -Path @($tocTemplate.packageFiles.Values) -DestinationPath $($toctemplate.packageFiles.luaFilename).replace("lua","zip") -force
