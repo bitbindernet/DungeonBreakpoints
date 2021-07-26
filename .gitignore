@@ -2,3 +2,4 @@
 creds.ps1
 *.zip
 toctemplate.ps1
+toc.json

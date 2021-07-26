@@ -1,6 +1,6 @@
 ## Interface: 90100
 ## Title: Dungeon Breakpoints
 ## Author: Prongzs-Proudmoore (BitbinderGaming)
-## Version: 0.01
+## Version: 0.4.0.0
 
-dungeonbreakpoints.lua
+dungeonbreakpoints.toc
