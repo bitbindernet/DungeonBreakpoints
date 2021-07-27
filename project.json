@@ -1,0 +1,18 @@
+{
+  "Title": "Dungeon Breakpoints",
+  "packageFiles": {
+    "luaFilename": "dungeonbreakpoints.lua",
+    "tocFilename": "dungeonbreakpoints.toc"
+  },
+  "Interface": "90100",
+  "Author": "Prongzs-Proudmoore (BitbinderGaming)",
+  "Version": {
+    "Major": 0,
+    "Minor": 19,
+    "Build": 0,
+    "Revision": 0,
+    "MajorRevision": 0,
+    "MinorRevision": 0
+  },
+  "curseProjectId": 508072
+}
