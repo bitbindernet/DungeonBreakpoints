@@ -6,8 +6,8 @@ SlashCmdList["DUNGEONBREAKPOINTS"] = function(msg)
     local NW=  "NW    --> 68.2% Before upstairs (31.8 Upstairs)";
     local PF=  "PF    --> 85.8% Downstairs (14.2 Downstairs)";
     local SoA= "SOA   --> 87.4% Before upstairs (12.6 upstairs)";
-    local TOP= "ToP   --> None you need to worry about (submit suggestions!)";
-    local MoTS="Mists --> 10.0% After boss, don't pull fliers";
+    local ToP= "ToP   --> None you need to worry about (submit suggestions!)";
+    local MoTS= "Mists --> 10.0% After boss, don't pull fliers";
     local SD=  "SD    --> 74.7% If you skip garg/mistdancer pack before gauntlet";
     print("Dungeon Breakpoints:");
     if msg == "all" or msg == "dos" or msg == "" or msg == "de" then
